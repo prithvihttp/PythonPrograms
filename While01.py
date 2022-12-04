@@ -1,4 +1,4 @@
-a=int(input("Enter the number:"))
+a=int(input("enter the number:"))
 count=0
 while count<=10:
     print("count is:", count)
