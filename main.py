@@ -3,7 +3,7 @@
 #age = 25
 #print(name)
 #print(age)
-#full_name = 'prithvi raj'
+#full_name = 'Prithvi raj'
 #print(full_name)
 #height,weidth = 400,500
 #print(weidth)
